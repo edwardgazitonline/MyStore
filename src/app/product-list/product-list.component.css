@@ -5,3 +5,10 @@ Copyright Google LLC. All Rights Reserved.
 Use of this source code is governed by an MIT-style license that
 can be found in the LICENSE file at https://angular.io/license
 */
+h3 {
+  color: rgb(110, 13, 66);
+
+}
+h2 {
+  color: brown;
+}
